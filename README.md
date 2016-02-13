@@ -1,4 +1,4 @@
-Hello, this is my portfolio of personal and professional projects.
+Hello, this is my portfolio of personal and professional apps, open source contributions, and writings
 
 * [Personal Projects](#personal-projects)
   * [SH|FT](#shft)
