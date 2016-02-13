@@ -1,3 +1,9 @@
+* [Personal Projects](#personal-projects)
+  * [SH|FT](#shft)
+  * [Parker](#parker)
+* [Writing](#writing)
+
+
 # Personal Projects
 
 In my free time, I like to work on side projects. This allows me to experiment with new technologies. Here is a sample of side projects I have completed over the years.
