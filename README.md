@@ -1,7 +1,14 @@
 * [Personal Projects](#personal-projects)
-  * [SH|FT](#shft)
+ * [SH|FT](#shft)
   * [Parker](#parker)
+  * Healthy Habits
+  * Campus Libre
+* [Employer Projects](#employer-projects)
+ * [String Theory](#string-theory)
+ * [IDEO](#ideo)
+ * [Mobiquity](#mobiquity)
 * [Writing](#writing)
+* [Open Source](#open-source)
 
 
 # Personal Projects
