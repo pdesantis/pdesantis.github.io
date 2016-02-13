@@ -1,3 +1,5 @@
+Hello, this is my portfolio of personal and professional projects.
+
 * [Personal Projects](#personal-projects)
   * [SH|FT](#shft)
   * [Parker](#parker)
