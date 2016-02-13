@@ -1,5 +1,5 @@
 * [Personal Projects](#personal-projects)
- * [SH|FT](#shft)
+  * [SH|FT](#shft)
   * [Parker](#parker)
   * Healthy Habits
   * Campus Libre
